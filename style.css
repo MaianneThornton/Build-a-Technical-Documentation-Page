@@ -3,6 +3,6 @@
   text-align: left;
 }
 @media screen and (max-height: 450px) {
-  # navbar  {padding-top: 15px;}
+  #navbar  {padding-top: 15px;}
   #navbar  a {font-size: 18px;}
 }
